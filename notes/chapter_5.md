@@ -11,7 +11,7 @@ Relational Database Constraints
     - Each column has a column header
     - in the formal model it column == Attribute == Field
     
-    ![img](/img/5.1.png)
+    ![img](./img/5.1.png)
     
 
 ### Key of Relation
@@ -39,7 +39,7 @@ Relational Database Constraints
     - r(R) ⇒ dom(A1) X dom (A2)
     - X ⇒ cartesian product
     
-    ![img](/img/5.2.png)
+    ![img](./img/5.2.png)
 
     
     - **Relation State**
@@ -51,11 +51,11 @@ Relational Database Constraints
     The relation state of the employee relation at that particular point in time, as shown below.
     
 
-![img](/img/5.3.png)
+![img](./img/5.3.png)
 
 ### **Definition Summary**
 
-![img](/img/5.4.png)
+![img](./img/5.4.png)
 
 ---
 
@@ -103,7 +103,7 @@ Relational Database Constraints
 
 ## Displaying a relational database schema and its constrains
 
-![img](/img/5.5.png)
+![img](./img/5.5.png)
 
 ### Other constrains can’t be appear in the diagram
 
@@ -119,9 +119,9 @@ Relation state + Relation states + …. == relation database state
 - Delete
 - Modify
 
-![img](/img/5.6.png)
+![img](./img/5.6.png)
 
-![img](/img/5.7.png)
+![img](./img/5.7.png)
 
 ## Possible violations for each operation
 

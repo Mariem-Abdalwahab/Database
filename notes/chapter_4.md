@@ -34,7 +34,7 @@
         - entity member at more than one subclass (and)
         - o character
     
-    ![img](/img/4.1.gif)
+    ![img](./img/4.1.gif)
     
 
 
@@ -47,7 +47,7 @@
 
 ### Lattice ⇒ subclass has more than one superclass (Shared subclass)
 
-![img](/img/4.2.jpg)
+![img](./img/4.2.jpg)
 
 ---
 
@@ -55,6 +55,6 @@
 
 - It is a method to collect super-classes in entity to connect it with other relationship and entities
 
-![img](/img/4.3.png)
+![img](./img/4.3.png)
 
 - **Shared class** ⇒ share its attributes from all the superclass (intersection between then)
